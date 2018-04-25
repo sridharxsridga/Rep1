@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="D:/Selenium_latest_software/selenium-java-3.7.1/client-combined-3.7.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium_latest_software/selenium-server-standalone-3.4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sr262760/Downloads/jxl-2.6.jar/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sr262760/Downloads/testng-6.14.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
