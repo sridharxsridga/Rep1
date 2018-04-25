@@ -1,3 +1,7 @@
+Try this today
+https://stackoverflow.com/questions/5092651/automated-testing-in-apache-hivehttps://stackoverflow.com/questions/5092651/automated-testing-in-apache-hivehttps://stackoverflow.com/questions/5092651/automated-testing-in-apache-hive
+
+
 https://github.com/zenkay/bigdata-ecosystem#columnar-databases
 
 https://github.com/yahoo/validatar#what-is-validatar
