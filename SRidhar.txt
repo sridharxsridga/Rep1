@@ -1,0 +1,108 @@
+https://github.com/zenkay/bigdata-ecosystem#columnar-databases
+
+https://github.com/yahoo/validatar#what-is-validatar
+
+
+
+http://10.207.182.108:81/opencart/
+
+\\10.201.172.69
+
+syntax of finding xpath:
+syntax:
+
+//tag[@<prperty_name>=<property_value>]
+
+link : 
+//a[@href='http://10.207.182.108:81/opencart/index.php?route=account/login']
+
+//a[text()='login']
+
+//a[starts-with(text(),'login')]
+
+Image:<src><alt>
+//img[@alt="iPhone"]
+
+Label: <b><i><u><p>
+
+//b[contains(text(),'E-Mail')]
+
+Textbox: <input> <class>
+
+//input[@name="email" and @type="text"]
+
+
+Button:
+//input[@class="button" and @value="Login"]
+
+Radio Button:
+//input[@type="radio" and @value="1" and  @name="newsletter"]
+
+Checkbox:
+//input[@type="checkbox" and @value='1']
+
+Dropdown: [Absolute path]
+//select[@name="country_id"]//option[@value="6"]
+
+
+
+identical elements:
+//div[@id='welcome']/a[@href='http://10/207.182.108:81/opencart/index.php?route=account']
+
+
+
+Logout:
+//a[contains(text(),"Logout")]
+
+Home:
+//div[@class="links"]/a[@href="http://10.207.182.108:81/opencart/index.php?route=common/home"]
+
+Login:
+//div[@class="box-content"]/ul/li/a[@href="http://10.207.182.108:81/opencart/index.php?route=account/login"]
+
+Dropdown
+//table[@class="form"]/tbody/tr/td/select[@name="country_id"]/option[@value="1"]
+
+Currency:
+
+//a[@title="US Dollar"]
+
+
+Create accunt:
+//div[@id="welcome"]/a[@href="http://10.207.182.108:81/opencart/index.php?route=account/register"]
+
+
+Password label : 
+//div[@class="content"]/b[contains(text(),'Password:')]
+and text box : 
+//div[@class="content"]/input[@type="password" and @name="password"]
+************
+Junit
+*************
+@Test
+@After
+@Before
+@AfterClass
+@BeforeClass
+@Runwith
+@Ignore
+
+TestNg
+
+@Test
+@AfterMethod
+@BeforeMethod
+@Priority
+
+
+Assertion
+
+
+https://www.guru99.com/selenium-tutorial.html
+seleniumhq.org
+
+
+Add jxl jar
+.xls
+Excel 97-2003+ Template
+
