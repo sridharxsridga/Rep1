@@ -106,3 +106,4 @@ Add jxl jar
 .xls
 Excel 97-2003+ Template
 
+http://www.lopakalogic.com/articles/hadoop-articles/hive-testing/
